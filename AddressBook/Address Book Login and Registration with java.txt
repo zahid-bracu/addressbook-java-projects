@@ -1,0 +1,26 @@
+Design: 
+1. for login page: project(Address_Book)-->source packages-->JFrame Form-->Name(login form)
+2. for register page: project(Address_Book)-->source packages-->JFrame Form-->Name(registration form)
+3. for login page --> Navigator--> (select JFrame)--> set layout--> Null lay out 
+ then select "pallete" --> panel --> select "shape"--> drag a shape --> select color from from browser "flatuicolorpicker(RGB)"
+
+-->rgb(218, 223, 225)--> netbeans --> properties --> background --> 
+
+rgb(108, 122, 137)
+
+4.  run file --> run --> run file --> 
+
+navigator --> JFrame (select)--> Set lay out--> free design(select) --> run
+
+
+navigator --> JFrame (select)--> properties --> undecorated (select) --> run
+
+source code :
+this.setLocationRelativeTo(null);
+/*center form of the screen. or make the application window keep center of the screen*/
+
+Design:
+
+palatte--> label --> (drag on desing) --> (right click)--> edit text 
+(edit font : properties-->font-->click on [...])
+(edit color : properties-->foreground-->click on [...])
